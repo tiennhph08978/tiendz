@@ -6,3 +6,4 @@ const total = function(a,b){
 const totalSecond = (a,b) => a*b;
 // totalSecond(7,5)
 const totalSecond = (a,b) => {return a*b};
+//anh tien dep trai hihi
