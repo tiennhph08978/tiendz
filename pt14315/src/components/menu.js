@@ -1,16 +1,16 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-const menu = props => {
+const Menu = props => {
+   
     return (
         <div>
-            <h1>Menu</h1>
         </div>
     )
 }
 
-menu.propTypes = {
+Menu.propTypes = {
 
 }
 
-export default menu
+export default Menu
